@@ -1,0 +1,16 @@
+####################################################
+# IIIIIII PPPPPP    W     W H  H IIIII TTTTT EEEEE #
+#    I    P     P   W  W  W HHHH   I     T   EEEEE #
+#    I    P     P    WW WW  H  H IIIII   T   EEEEE #
+#    I    PPPPPP                                   #
+#    I    P         L       IIIII    SSSSS   TTTTT #
+#    I    P         L         I      SSSSS     T   #
+# IIIIIII P         LLLL    IIIII    SSSSS   TTTTT #
+####################################################
+
+# The ip players are supposed to connect with.
+# Should be in the form ip:port (port is required)
+ip:
+
+# Message to display when player gets kicked
+kick-message:

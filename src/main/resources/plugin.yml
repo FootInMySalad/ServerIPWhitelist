@@ -1,0 +1,7 @@
+name: SpigotIPWhitelist
+version: 1.0.0_10
+author: FootInMySalad
+
+api-version: "1.14"
+main: io.github.footinmysalad.SpigotIPWhitelist.IPWhitelist
+load: POSTWORLD
