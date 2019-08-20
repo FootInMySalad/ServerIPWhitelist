@@ -1,4 +1,4 @@
-# SpigotIPWhitelist
+# ServerIPWhitelist
 
 <sup>[SpigotMC Page](https://www.spigotmc.org/resources/spigotipwhitelist.70579/)</sup>
 
