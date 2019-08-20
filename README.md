@@ -1,5 +1,7 @@
 # SpigotIPWhitelist
 
+<sup>[SpigotMC Page](https://www.spigotmc.org/resources/spigotipwhitelist.70579/)</sup>
+
 A spigot plugin that allows you to limit IPs that players can connect to.
 
 
@@ -13,16 +15,6 @@ This plugin works like [IPWhitelist](https://www.spigotmc.org/resources/ipwhitel
 `config.yml`
 
 ```yml
-####################################################
-# IIIIIII PPPPPP    W     W H  H IIIII TTTTT EEEEE #
-#    I    P     P   W  W  W HHHH   I     T   EEEEE #
-#    I    P     P    WW WW  H  H IIIII   T   EEEEE #
-#    I    PPPPPP                                   #
-#    I    P         L       IIIII    SSSSS   TTTTT #
-#    I    P         L         I      SSSSS     T   #
-# IIIIIII P         LLLL    IIIII    SSSSS   TTTTT #
-####################################################
-
 # The ip players are supposed to connect with.
 # Should be in the form ip:port (port is required)
 ip:
